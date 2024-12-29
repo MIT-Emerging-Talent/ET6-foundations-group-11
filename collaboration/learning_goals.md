@@ -4,12 +4,14 @@
 
 ## Individual
 
-**Taiwo Goals**: Enhance my ability to communicate openly within a collaborative team setting.
+**Taiwo Goals**:
+
+Enhance my ability to communicate openly within a collaborative team setting.
 
 *Objectives*:
 
 - Practice active listening by giving full attention to team members during discussions.
-- Provide constructive feedback that focuses on ideas and behaviors rather than personal attributes.
+- Provide constructive feedback that focuses on ideas and behaviors.
 - Share coding challenges to help in engaging the team.
 
 *Success Criteria*:
