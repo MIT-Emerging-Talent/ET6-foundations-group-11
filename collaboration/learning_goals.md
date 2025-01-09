@@ -11,13 +11,12 @@ This will ensure all team members are familiar with the challenges and actively
 participate in solving them, hence meeting my learning objective
 
 **Taiwo Goals**:
-
 Enhance my ability to communicate openly within a collaborative team setting.
 
 *Objectives*:
 
 - Practice active listening by giving full attention to team members during discussions.
-- Provide constructive feedback that focuses on ideas and behaviors.
+- Provide constructive feedback that focuses on ideas and behaviors rather than personal attributes.
 - Share coding challenges to help in engaging the team.
 
 *Success Criteria*:
