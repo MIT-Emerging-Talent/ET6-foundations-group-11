@@ -1,9 +1,9 @@
-# MIT Emerging Talent: ET6-Foundation Group 11 Code Review Exercise
+# MIT Emerging Talent: ET6-Foundation Group BugSquashers ode Review Exercise
 
 ## Overview
 
 This repository is part of the **MIT Emerging Talent Program**, where
-**Group 11** collaborated to complete and review coding challenges. The goal of
+**Group BugSquashers** collaborated to complete and review coding challenges. The goal of
 this exercise was to develop proficiency in using **GitHub** for code review,
 project management, and ensuring code quality with **CI/CD tools**. Through this
 project, we aimed to enhance both our technical and collaborative skills,
